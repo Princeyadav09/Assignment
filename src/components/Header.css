@@ -1,0 +1,8 @@
+.btn {
+    border:  solid;
+    border-image-slice: 1;
+    border-width: 3px;
+    border-image-source: linear-gradient(to left, #D807FA, #FF0CBB);
+    border-radius: 5px;
+  }
+
